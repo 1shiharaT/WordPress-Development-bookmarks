@@ -1,0 +1,225 @@
+## WordPress Development Bookmarks
+
+* Resource
+	* RSS
+		* [wp tuts +](http://wp.tutsplus.com/)
+		* [Make WordPress Core](http://core.trac.wordpress.org/timeline)
+		* [wplift](http://wplift.com/)
+		* [WordPress tavern](http://wpmail.us2.list-manage.com/ )
+		* [10up](http://10up.com/)
+		* [AUTOMATTIC | NEWS](http://automattic.com/news/)
+		* [wpmuorg](http://wpmu.org/)
+	* Mail Magazine
+		* [wpmail](http://wpmail.me/)
+* Dev Tool
+	* Text Editor
+		* [Sublime Text 2 ( or 3 )](http://www.sublimetext.com/)
+			* [Sublime Text 2 WordPress Package](sublime-text-2-wordpress)
+			* [SublimePhpTidy](https://github.com/welovewordpress/SublimePhpTidy)
+			* [SublimeWordPressCodex](https://github.com/welovewordpress/SublimeWordPressCodex)
+			* [Sublpress](https://github.com/dnstbr/Sublpress)
+		* [vim](http://www.vim.org/)
+			* [VimRepress](https://github.com/vim-scripts/VimRepress)
+			* [vim-dict-wordpress](https://github.com/miya0001/vim-dict-wordpress)
+			* [https://gist.github.com/oppara/1267520](https://gist.github.com/oppara/1267520)
+	* Backend
+		* nginx
+			* [Nginx - WordPress Codex 日本語版](http://wpdocs.sourceforge.jp/Nginx)
+			* [Nginx Wordpress Configuration](http://centminmod.com/nginx_configure_wordpress.html#fastcgicache)
+			* [perusio / wordpress-nginx](https://github.com/perusio/wordpress-nginx)
+			* [rtCamp / nginx-helper](https://github.com/rtCamp/nginx-helper)
+		* vagrant
+			* [varying-vagrant-vagrants](https://github.com/10up/varying-vagrant-vagrants)
+			* [Vagrantで WordPressするなら「Varying Vagrant Vagrants（VVV）」](http://blog.h2o-space.com/post/63285120353)
+			* [Varying Vagrant Vagrants で WP 開発環境を手に入れる](http://dogmap.jp/2013/09/13/varying-vagrant-vagrants/)
+			* [WordPressのプラグインやテーマ、ウェブサイトの開発に超便利なVagrantつくりました。](http://firegoby.jp/archives/5141)
+			* [vagrantpress](http://vagrantpress.org/)
+		* chef
+			* [WP-Chef](http://vagrantpress.org/)
+			* [opscode-cookbooks / wordpress](https://github.com/opscode-cookbooks/wordpress)
+			* [Berkshelf](http://berkshelf.com/)
+				* [Berkshelfベースにvagrant, chef(knife-solo)環境を簡単に構築する方法](http://qiita.com/yusabana/items/9dac70b7bbba49f3cdb7)
+		* aws
+			* [AWS + Nginx + WordPress - 超高速 WordPress AMI 網元](http://ja.megumi-cloud.com/)
+		* [wp-cli](http://wp-cli.org/)
+			* [inst-wp-with-wp-cli](https://github.com/tekapo/inst-wp-with-wp-cli)
+			* [Using wp-cli for Fun and Profit](http://wp.tutsplus.com/tutorials/using-wp-cli-for-fun-and-profit/)
+			* [ericmann / WP-PowerShell](https://github.com/ericmann/WP-PowerShell)
+	* Frontend
+		* [codekit](http://incident57.com/codekit/)
+		* [Live reload](http://livereload.com/)
+		* [Forge: Build WordPress themes with Sass](http://forge.thethemefoundry.com/)
+		* [Dash](http://kapeli.com/dash)
+		* [Ghostlab](http://vanamco.com/ghostlab/)
+		* [scribu / wp-phptidy](https://github.com/scribu/wp-phptidy)
+		* grunt
+			* [scottgonzalez / grunt-wordpress](https://github.com/scottgonzalez/grunt-wordpress)
+			* [Grunt + Underscores でサクサクWordPressテーマ開発](http://firegoby.jp/archives/5115)
+			* [mattbanks / WordPress-Starter-Theme](https://github.com/mattbanks/WordPress-Starter-Theme)
+		* yeoman
+			* [wesleytodd / YeoPress](https://github.com/wesleytodd/YeoPress)
+			* [romainberger / yeoman-wordpress](romainberger / yeoman-wordpress)
+* Security
+	* [Attacking WordPress](http://hackertarget.com/attacking-wordpress/)
+	* [ノンプログラマーのためのWordPressセキュリティ入門](http://firegoby.jp/presentations/wordfes2013)
+	* Tool
+		* [Wpscan](http://wpscan.org/)
+* Core
+	* API
+		* [Dashboard Widgets API](http://codex.wordpress.org/Dashboard_Widgets_API)
+			* [ダッシュボードウィジェット API](http://wpdocs.sourceforge.jp/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88_API)
+			* [How to Build Custom Dashboard Widgets](http://wp.tutsplus.com/tutorials/widgets/how-to-build-custom-dashboard-widgets/)
+			* [How to Build Custom Dashboard Widgets](http://wp.tutsplus.com/tutorials/widgets/how-to-build-custom-dashboard-widgets/)
+		* [Database API](http://codex.wordpress.org/Database_API)
+			* [Class Reference/wpdb](http://codex.wordpress.org/Class_Reference/wpdb)
+			* [関数リファレンス/wpdb Class](http://wpdocs.sourceforge.jp/%E9%96%A2%E6%95%B0%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/wpdb_Class)
+		* [File Header API](http://codex.wordpress.org/File_Header_API)
+			* [File Header](http://wpdocs.sourceforge.jp/File_Header)
+		* [Filesystem API](http://codex.wordpress.org/Filesystem_API)
+			* [WordPress Filesystem API: the right way to operate with local files](http://www.webdesignerdepot.com/2012/08/wordpress-filesystem-api-the-right-way-to-operate-with-local-files/)
+		* [HTTP API](http://codex.wordpress.org/HTTP_API)
+			* [HTTP API](http://wpdocs.sourceforge.jp/HTTP_API)
+			* [A Guide to the WordPress HTTP API: The Basics](http://wp.tutsplus.com/tutorials/plugins/a-guide-to-the-wordpress-http-api-the-basics/)
+		* [Metadata API](http://codex.wordpress.org/Metadata_API)
+			* [メタデータ API](http://wpdocs.sourceforge.jp/%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BF_API)
+			* [How To: Working with the WordPress Metadata API](http://www.jes.gs/2012/07/how-to-work-with-wordpress-metadata-api/#sthash.p2w1prUB.dpbs)
+		* [Options API](http://codex.wordpress.org/Options_API)
+			* [Options API](http://wpdocs.sourceforge.jp/Options_API)
+			* [WordPress Options API – Part 1 – WordPress Plugin Tutorial](http://jaskokoyn.com/2013/03/25/wordpress-options-api-part-1/)
+		* [Plugin API](http://codex.wordpress.org/Plugin_API)
+			* [プラグイン API](http://wpdocs.sourceforge.jp/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3_API)
+			* [プラグイン API/フィルターフック一覧](http://wpdocs.sourceforge.jp/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3_API/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%95%E3%83%83%E3%82%AF%E4%B8%80%E8%A6%A7)
+			* [プラグイン API/アクションフック一覧](http://wpdocs.sourceforge.jp/%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3_API/%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%83%83%E3%82%AF%E4%B8%80%E8%A6%A7)
+		* [Quicktags API](http://codex.wordpress.org/Quicktags_API)
+			* [mattyrob / qtags.php](https://gist.github.com/mattyrob/1511571)
+			* [Customize WordPress Quicktags](http://perishablepress.com/customize-wordpress-quicktags/)
+		* [Rewrite API](http://codex.wordpress.org/Rewrite_API)
+			* [WordPress Rewrite API – Part 1](http://pippinsplugins.com/wordpress-rewrite-api-part-1/)
+			* [関数リファレンス/WP Rewrite](http://wpdocs.sourceforge.jp/%E9%96%A2%E6%95%B0%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/WP_Rewrite)
+			* [[WordPress] カスタム投稿タイプのリライトに関するまとめ](http://www.560designs.com/memo/861.html)
+		* [Settings API](http://codex.wordpress.org/Settings_API)
+			* [Settings API](http://wpdocs.sourceforge.jp/Settings_API)
+			* [WordPress Settings Sandbox: A Working Example of the Settings API](http://tommcfarlin.com/wordpress-settings-api-example/)
+			* [setting API を活用した wordpress プラグイン作成](http://ounziw.com/2012/05/01/setting-api-wordpress/)
+		* [Shortcode API](http://codex.wordpress.org/Shortcode_API)
+			* [ショートコード API](http://wpdocs.sourceforge.jp/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89_API)
+			* [Shortcodes Generator](http://generatewp.com/shortcodes/)
+		* [Theme Modification API](http://codex.wordpress.org/Theme_Modification_API)
+		* [Theme Customization API](http://codex.wordpress.org/Theme_Customization_API)
+			* [Theme Customization API](http://wpdocs.sourceforge.jp/Theme_Customization_API)
+			* [Comprehensive Guide to make WordPress Theme Options with Customization API](http://www.narga.net/comprehensive-guide-wordpress-theme-options-with-customization-api/)
+			* [slobodan / WordPress-Theme-Customizer-Boilerplate](https://github.com/slobodan/WordPress-Theme-Customizer-Boilerplate)
+			* [Wordpress-Theme-Customizer-Custom-Controls](https://github.com/paulund/Wordpress-Theme-Customizer-Custom-Controls)
+		* [Transients API](http://codex.wordpress.org/Transients_API)
+			* [Transients API](http://wpdocs.sourceforge.jp/Transients_API)
+		* [Widgets API](http://codex.wordpress.org/Widgets_API)
+			* [WordPress ウィジェット API](http://wpdocs.sourceforge.jp/WordPress_%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88_API)
+			* [tommcfarlin/WordPress-Widget-Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate)
+			* [sksmatt / WordPress-Widgets-Helper-Class](https://github.com/sksmatt/WordPress-Widgets-Helper-Class)
+		* [XML-RPC WordPress API](http://codex.wordpress.org/XML-RPC_WordPress_API)
+			* [XML-RPC WordPress API](http://wpdocs.sourceforge.jp/XML-RPC_WordPress_API)
+			* [XML-RPC経由でWordPressに投稿する方法(PHP編)](http://ebookfan.mobi/web/wordpress/how-to-post-to-wordpress-via-php-and-xmlrpc.html)
+		* Heartbeat API
+			* [Using the WordPress Heartbeat API](http://pippinsplugins.com/using-the-wordpress-heartbeat-api/)
+			* [The Heartbeat API: Getting Started](http://wp.tutsplus.com/tutorials/creative-coding/the-heartbeat-api-getting-started/)
+		* more
+			* [A RESTful API for WordPress](http://wordpress.org/plugins/json-api/)
+				* [WP-API / WP-API](thomasgriffin / New-Media-Image-Uploader)
+* Theme
+	* Commercial theme
+		* [themeforest](http://themeforest.net/)
+		* [Woo Themes](http://www.woothemes.com/)
+		* [Commercially Supported GPL Themes](http://wordpress.org/themes/commercial/)
+	* Free theme
+		* [BizVektor](http://bizvektor.com/)
+		* [Site Orign](http://siteorigin.com/)
+		* [Themes Directory](http://wordpress.org/themes/)
+	* Theme Development
+		* Resource
+			* [Theme Developer Handbook](http://make.wordpress.org/docs/theme-developer-handbook/)
+			* [テーマの作成 - WordPress Codex 日本語版 ](http://wpdocs.sourceforge.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90)
+			* [7 Tips for Better WordPress Theme Development](http://www.slideshare.net/kovshenin/7-tips-16289096?ref=)
+			* Guideline
+				* [CSS Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/css/)
+				* [HTML Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/html/)
+				* [Javascript Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/javascript/)
+				* [PHP Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/php/)
+				* [PHP Documentation Standards](http://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/)
+		* Helper
+			* [GenerateWP](http://generatewp.com/)
+			* [tareq1988 / wordpress-settings-api-class](https://github.com/tareq1988/wordpress-settings-api-class)
+			* [ReduxFramework / ReduxFramework](http://reduxframework.com/)
+			* [thomasgriffin / TGM-Plugin-Activation](https://github.com/thomasgriffin/TGM-Plugin-Activation)
+		* Framework
+			* [Underscores | A Starter Theme for WordPress](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Funderscores.me%2F&ei=dal3UuH2OcislAX_oIBQ&usg=AFQjCNE2llus5PBkLBniYk7qV73CADWVCg&sig2=DnZOTYULjtMmgOyOstSWyA&bvm=bv.55819444,d.dGI)
+			* [Roots](http://roots.io/)
+			* [Bones](http://themble.com/bones/)
+			* [Frank](https://github.com/somerandomdude/Frank)
+			* [Skeleton](http://themes.simplethemes.com/skeleton/)
+			* [html5-boilerplate-for-wordpress](https://github.com/zencoder/html5-boilerplate-for-wordpress)
+			* [wordless](https://github.com/welaika/wordless)
+			* [Reverie](http://themefortress.com/reverie/)
+		* bootstrap
+			* [320press / wordpress-bootstrap](https://github.com/320press/wordpress-bootstrap)
+			* [noahbass / sass-wordpress-bootstrap](https://github.com/noahbass/sass-wordpress-bootstrap)
+			* [upBootstrap3WP](https://github.com/upplex/upBootstrap3WP)
+			* [BootstrapWP](http://bootstrapwp.rachelbaker.me/)
+			* compornent
+				* [wp-bootstrap-navwalker](https://github.com/twittem/wp-bootstrap-navwalker)
+				* [bootstrap-3-shortcodes](https://github.com/filipstefansson/bootstrap-3-shortcodes)
+				* [bootstrap-admin](https://github.com/aristath/bootstrap-admin)
+				* [wp-bootstrap-gallery](https://github.com/twittem/wp-bootstrap-gallery)
+				* [cpt-bootstrap-carousel](https://github.com/tallphil/cpt-bootstrap-carousel)
+		* Test
+			* [WP TEST](http://wptest.io/)
+			* [Theme Unit Test](http://codex.wordpress.org/Theme_Unit_Test)
+			* [Automated Testing](http://make.wordpress.org/core/handbook/automated-testing/)
+			* [WordPress テストデータ日本語版](http://neta.megumi-champloo.net/2011/06/09/wordpress-%E3%83%86%E3%82%B9%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88/)
+			* [nb / wordpress-tests](https://github.com/nb/wordpress-tests)
+* Plugin
+	* Commercial plugins
+		* [1900+ WordPress Plugins | CodeCanyon ](http://codecanyon.net/category/wordpress)
+		* [wp appstore](http://wpappstore.com/)
+		* [Premium WordPress Plugins by WPMU DEV](https://premium.wpmudev.org/projects/category/plugins/)
+	* Developement
+		* [Developer Documentation](http://codex.wordpress.org/Developer_Documentation)
+		* [WordPress-Plugin-Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate)
+		* [Automattic / developer](https://github.com/Automattic/developer)
+		* [WordPress-GitHub-Plugin-Updater](https://github.com/jkudish/WordPress-GitHub-Plugin-Updater)
+		* [omarabid/Self-Hosted-WordPress-Plugin-repository](https://github.com/omarabid/Self-Hosted-WordPress-Plugin-repository)
+		* [WP MVC](https://github.com/tombenner/wp-mvc)
+	* Recommend
+		* Security
+			* [Login rebuilder](http://wordpress.org/plugins/login-rebuilder/)
+			* [Sucuri WordPress Security Plugin](http://www.wpsecuritychecklist.com/sucuri-wordpress-security-plugin/)
+			* [Simple Login Lockdown](http://wordpress.org/plugins/login-lockdown/)
+			* [Stealth Login Page](http://wordpress.org/plugins/stealth-login-page/)
+			* [Disable Author Pages](http://wordpress.org/plugins/disable-author-pages/)
+		* Database
+			* [WP Migrate DB](http://wordpress.org/plugins/wp-migrate-db/)
+			* [Search and Replace](http://wordpress.org/plugins/search-and-replace/)
+		* Navigation
+			* [Breadcrumb NavXT](http://wordpress.org/plugins/breadcrumb-navxt/)
+			* [WP-PageNavi](http://wordpress.org/plugins/wp-pagenavi/)
+		* SEO
+			* [WordPress SEO by Yoast](http://wordpress.org/plugins/wordpress-seo/)
+		* Search
+			* [Facet WP](https://facetwp.com/buy/)
+			* [Relevanssi - A Better Search](http://wordpress.org/plugins/relevanssi/)
+			* [Search Everything](http://wordpress.org/plugins/search-everything)
+			* [swiftype](https://swiftype.com/home)
+		* [Advanced Custom Fields](http://wordpress.org/plugins/advanced-custom-fields/)
+			* [Repeater Field](http://www.advancedcustomfields.com/add-ons/repeater-field/)
+			* [Flexible Content Field](http://www.advancedcustomfields.com/add-ons/flexible-content-field/)
+			* [Location Field](http://www.advancedcustomfields.com/add-ons/google-maps/)
+			* [Date & Time Picker](http://www.advancedcustomfields.com/add-ons/date-time-picker/)
+			* [theideabureau / acf-data-selector-field](https://github.com/theideabureau/acf-data-selector-field)
+			* Resource
+				* [elliotcondon / acf-field-type-template](https://github.com/elliotcondon/acf-field-type-template)
+		* widget
+			* [Black Studio TinyMCE Widget](http://wordpress.org/plugins/black-studio-tinymce-widget/)
+			* [Image Widget](http://wordpress.org/plugins/image-widget/)
+			* [Widget Customizer](http://wordpress.org/plugins/widget-customizer/)
+		* Cache
+			* [WP Super Cache](http://wordpress.org/extend/plugins/wp-super-cache/)
+			* [W3 Total Cache](http://wordpress.org/plugins/w3-total-cache/)

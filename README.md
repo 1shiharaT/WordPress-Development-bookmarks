@@ -5,7 +5,7 @@
 		* [wp tuts +](http://wp.tutsplus.com/)
 		* [Make WordPress Core](http://core.trac.wordpress.org/timeline)
 		* [wplift](http://wplift.com/)
-		* [WordPress tavern](http://wpmail.us2.list-manage.com/ )
+		* [WordPress tavern](http://www.wptavern.com/)
 		* [10up](http://10up.com/)
 		* [AUTOMATTIC | NEWS](http://automattic.com/news/)
 		* [wpmuorg](http://wpmu.org/)
@@ -14,7 +14,7 @@
 * Dev Tool
 	* Text Editor
 		* [Sublime Text 2 ( or 3 )](http://www.sublimetext.com/)
-			* [Sublime Text 2 WordPress Package](sublime-text-2-wordpress)
+			* [Sublime Text 2 WordPress Package](https://github.com/purplefish32/sublime-text-2-wordpress)
 			* [SublimePhpTidy](https://github.com/welovewordpress/SublimePhpTidy)
 			* [SublimeWordPressCodex](https://github.com/welovewordpress/SublimeWordPressCodex)
 			* [Sublpress](https://github.com/dnstbr/Sublpress)
@@ -35,7 +35,7 @@
 			* [WordPressのプラグインやテーマ、ウェブサイトの開発に超便利なVagrantつくりました。](http://firegoby.jp/archives/5141)
 			* [vagrantpress](http://vagrantpress.org/)
 		* chef
-			* [WP-Chef](http://vagrantpress.org/)
+			* [WP-Chef](https://github.com/bastosmichael/WP-Chef)
 			* [opscode-cookbooks / wordpress](https://github.com/opscode-cookbooks/wordpress)
 			* [Berkshelf](http://berkshelf.com/)
 				* [Berkshelfベースにvagrant, chef(knife-solo)環境を簡単に構築する方法](http://qiita.com/yusabana/items/9dac70b7bbba49f3cdb7)
@@ -62,6 +62,7 @@
 * Security
 	* [Attacking WordPress](http://hackertarget.com/attacking-wordpress/)
 	* [ノンプログラマーのためのWordPressセキュリティ入門](http://firegoby.jp/presentations/wordfes2013)
+  * [WordPressのアップデート放置はこんなに危険! いっしょにセキュリティ意識もアップデート](http://blog.layer8.sh/ja/2013/12/12/wp-vulnerabilities/)
 	* Tool
 		* [Wpscan](http://wpscan.org/)
 * Core
@@ -124,7 +125,7 @@
 			* [The Heartbeat API: Getting Started](http://wp.tutsplus.com/tutorials/creative-coding/the-heartbeat-api-getting-started/)
 		* more
 			* [A RESTful API for WordPress](http://wordpress.org/plugins/json-api/)
-				* [WP-API / WP-API](thomasgriffin / New-Media-Image-Uploader)
+				* [thomasgriffin/New-Media-Image-Uploader](https://github.com/thomasgriffin/New-Media-Image-Uploader)
 * Theme
 	* Commercial theme
 		* [themeforest](http://themeforest.net/)
